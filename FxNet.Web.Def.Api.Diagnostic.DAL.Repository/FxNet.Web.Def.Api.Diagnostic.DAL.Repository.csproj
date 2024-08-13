@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FxNet.Web.Def.Api.Diagnostic.DAL.Infrastructure\FxNet.Web.Def.Api.Diagnostic.DAL.Infrastructure.csproj" />
+    <ProjectReference Include="..\FxNet.Web.Def.Api.Diagnostic.DAL\FxNet.Web.Def.Api.Diagnostic.DAL.Db.csproj" />
+  </ItemGroup>
+
+</Project>

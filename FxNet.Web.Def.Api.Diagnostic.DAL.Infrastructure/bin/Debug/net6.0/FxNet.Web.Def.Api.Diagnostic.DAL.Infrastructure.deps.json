@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FxNet.Web.Def.Api.Diagnostic.DAL.Infrastructure/1.0.0": {
+        "runtime": {
+          "FxNet.Web.Def.Api.Diagnostic.DAL.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FxNet.Web.Def.Api.Diagnostic.DAL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

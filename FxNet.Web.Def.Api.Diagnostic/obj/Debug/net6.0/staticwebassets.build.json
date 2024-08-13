@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b+5tX0CZKgqm94/2pyk/B1WV3iVTkL1Ev3au3N1BGLg=",
+  "Source": "FxNet.Web.Def.Api.Diagnostic",
+  "BasePath": "_content/FxNet.Web.Def.Api.Diagnostic",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

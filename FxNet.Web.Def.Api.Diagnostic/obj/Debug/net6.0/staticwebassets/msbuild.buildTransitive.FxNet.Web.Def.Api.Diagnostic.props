@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FxNet.Web.Def.Api.Diagnostic.props" />
+</Project>

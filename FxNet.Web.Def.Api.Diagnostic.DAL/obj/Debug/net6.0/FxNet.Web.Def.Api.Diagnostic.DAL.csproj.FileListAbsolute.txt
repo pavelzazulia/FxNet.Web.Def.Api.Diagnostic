@@ -1,0 +1,14 @@
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\bin\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.deps.json
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\bin\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.runtimeconfig.json
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\bin\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.dll
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\bin\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.pdb
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.csproj.AssemblyReference.cache
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.AssemblyInfoInputs.cache
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.AssemblyInfo.cs
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.csproj.CoreCompileInputs.cache
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.dll
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\refint\FxNet.Web.Def.Api.Diagnostic.DAL.dll
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.pdb
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\FxNet.Web.Def.Api.Diagnostic.DAL.genruntimeconfig.cache
+C:\Work\VictorTestTask\FxNet.Web.Def.Api.Diagnostic.DAL\obj\Debug\net6.0\ref\FxNet.Web.Def.Api.Diagnostic.DAL.dll
