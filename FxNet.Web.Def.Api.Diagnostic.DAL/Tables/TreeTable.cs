@@ -13,8 +13,8 @@ namespace FxNet.Web.Def.Api.Diagnostic.DAL.Db.Tables
 
         public string Name { get; set; }
 
-        IEnumerable<INode> ITree.Nodes => Nodes;
-
         public virtual List<NodeTable> Nodes { get; set; }
+
+        IEnumerable<INode> ITree.Nodes => Nodes;
     }
 }
