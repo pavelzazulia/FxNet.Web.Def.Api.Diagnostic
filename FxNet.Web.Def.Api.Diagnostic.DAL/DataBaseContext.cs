@@ -13,7 +13,7 @@ namespace FxNet.Web.Def.Api.Diagnostic.DAL.Db
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<TreeTable>().ToTable("Tree"); //.Navigation(e => e.Nodes).AutoInclude();
+            modelBuilder.Entity<TreeTable>().ToTable("Tree");
             modelBuilder.Entity<NodeTable>().ToTable("Node");
             modelBuilder.Entity<JournalTable>().ToTable("Journal");
         }
