@@ -1,4 +1,4 @@
-﻿using System.Data.Entity;
+﻿using Microsoft.EntityFrameworkCore;
 using FxNet.Web.Def.Api.Diagnostic.DAL.Db;
 using FxNet.Web.Def.Api.Diagnostic.DAL.Db.Tables;
 using FxNet.Web.Def.Api.Diagnostic.DAL.Infrastructure.Entity;
@@ -13,7 +13,6 @@ namespace FxNet.Web.Def.Api.Diagnostic.DAL.Repository
         public TreeRepository(DataBaseContext dataBaseContext)
         {
             this.dataBaseContext = dataBaseContext;
-
         }
 
         public async Task<ITree> GetTreeAsync(string name)

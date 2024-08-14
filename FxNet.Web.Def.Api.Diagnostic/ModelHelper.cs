@@ -29,9 +29,13 @@ namespace FxNet.Web.Def.Api.Diagnostic
             var childNodes = nodes.Where(n => n.ParentNodeId == parentNodeId).ToArray();
 
             foreach (var node in childNodes)
-                node.Children = nodes.BuildNode(node.ParentNodeId);
+            {
+                var nodeChilds = nodes.Where(n => n.ParentNodeId == node.Id).ToArray();
 
-            return nodes;
+                node.Children = nodeChilds.BuildNode(node.Id);
+            }
+
+            return childNodes;
         }
     }
 }
