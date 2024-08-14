@@ -38,8 +38,6 @@ namespace FxNet.Web.Def.Api.Diagnostic
             services.AddTransient<ITreeRepository, TreeRepository>();
 
             services.AddDbContext<DataBaseContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DataBaseConnectionString")));
-
-            //services.AddDbContext<DataBaseContext>(options => options.UseNpgsql(Configuration.GetConnectionString("PostgreSQLConnectionString")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
